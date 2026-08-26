@@ -1,0 +1,25 @@
+{
+  "name": "vibecodelab",
+  "version": "1.0.0",
+  "description": "> **¡Bienvenido/a a la experiencia de construcción y lanzamiento de software más intensa y práctica!**   > En **Vibecode Lab** no solo aprenderás a escribir código moderno; aprenderás a **crear productos digitales reales, salir al mercado rápidamente y validar tu idea de SaaS con usuarios reales.**",
+  "main": "doctor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AiesTreiA/vibecode-lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/AiesTreiA/vibecode-lab/issues"
+  },
+  "homepage": "https://github.com/AiesTreiA/vibecode-lab#readme",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "dotenv": "^17.4.2"
+  }
+}
