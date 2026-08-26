@@ -3,6 +3,9 @@
 > **¡Bienvenido/a a la experiencia de construcción y lanzamiento de software más intensa y práctica!**  
 > En **Vibecode Lab** no solo aprenderás a escribir código moderno; aprenderás a **crear productos digitales reales, salir al mercado rápidamente y validar tu idea de SaaS con usuarios reales.**
 
+> 📺 **Clases Grabadas & Plataforma de Alumnos:**  
+> Puedes ver todas las sesiones grabadas y acceder al material de las clases en [www.javiermujica.com/vibecodelab](https://www.javiermujica.com/vibecodelab).
+
 ---
 
 ## 💡 La Filosofía: Build + Market Fit
