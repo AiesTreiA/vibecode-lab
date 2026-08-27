@@ -3,9 +3,9 @@
  * Ejecución: node doctor.js
  */
 
-const { execSync } = require('child_process');
-const fs = require('fs');
-const path = require('path');
+import { execSync } from 'child_process';
+import fs from 'fs';
+import path from 'path';
 
 const CHECKS = [
   { name: 'Node.js (>= v20)', cmd: 'node -v', minMajor: 20 },
@@ -13,6 +13,7 @@ const CHECKS = [
   { name: 'Git', cmd: 'git --version' },
   { name: 'Python (>= 3.11)', cmd: 'python --version || python3 --version', minMajor: 3, minMinor: 11 },
   { name: 'Go (>= 1.22)', cmd: 'go version', minMajor: 1, minMinor: 22 },
+  { name: 'Antigravity CLI (agy)', cmd: 'agy --version || antigravity --version' },
   { name: 'PostgreSQL (Opcional)', cmd: 'psql --version', optional: true },
 ];
 
