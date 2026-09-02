@@ -68,12 +68,23 @@ Si el script muestra `🚀 ¡Entorno 100% listo para construir en Vibecode Lab!`
 
 ---
 
+## 📚 Recursos & Materiales por Clase
+
+### 📦 Clase 2: Construcción del MVP & Automatizaciones
+- 📄 **[Guía Oficial de Laboratorio (PDF)](public/docs/Vibecode_Clase_2_Guia_MVP_y_Automatizaciones.pdf)**: Manual detallado paso a paso con botones de cron-job.org, SQL RLS y despliegue en Vercel.
+- 📄 **[Cheat Sheet de Vibecoding (PDF)](public/docs/Clase_2_CheatSheet_Vibecoding.pdf)**: Ficha rápida de 1 página con el Prompt Maestro completo de producción.
+- 🗄️ **[Script SQL para Supabase](public/docs/setup-clase-2-quotes.sql)**: Tabla `quotes` con Row Level Security para el SQL Editor.
+- 💻 **[Endpoint Keep-Alive](public/docs/keep-alive-route.ts)**: Código de persistencia gratuita para `app/api/keep-alive/route.ts`.
+- 💻 **[Endpoint Cotizador Gemini](public/docs/quote-route.ts)**: Código de orquestación IA y cálculo matemático para `app/api/quote/route.ts`.
+
+---
+
 ## 🗺️ Hoja de Ruta del Bootcamp
 
 - [x] **Fase 1: Preparación del Entorno & Tooling (Día 1)**
   - Configuración de repositorio, Node.js, Go, Git y Doctor CLI.
-- [ ] **Fase 2: Arquitectura del MVP & Base de Datos**
-  - Modelado en Supabase, Autenticación y APIs en Next.js / Go.
+- [x] **Fase 2: Arquitectura del MVP & Automatizaciones (Día 2)**
+  - Cotizador con Gemini AI, Persistencia Supabase, Keep-Alive y Vercel.
 - [ ] **Fase 3: Inteligencia Artificial Aplicada**
   - Conexión con Google AI Studio (Gemini API) y generación de valor con IA.
 - [ ] **Fase 4: Landing Page de Alta Conversión & Captación**
