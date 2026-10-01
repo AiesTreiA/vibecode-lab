@@ -21,7 +21,8 @@ clase-5-pagos/
 │
 └── 03-validacion-toolkit/
     ├── TARJETA_METRICAS_CLASE6.md   ← Ficha de KPIs a completar esta semana
-    └── GUIA_MICRO_PAUTA.md          ← Cómo activar Meta Ads / LinkedIn / Outreach
+    ├── GUIA_MICRO_PAUTA.md          ← Resumen de canales de tracción
+    └── PASO_A_PASO_ACTIVAR_CAMPANA_META.md ← Guía completa Meta Ads (Pixel, ABO, UTMs)
 ```
 
 ---
